@@ -1,4 +1,4 @@
-# search-mcp
+# unified-search-mcp
 
 MCP server for unified semantic search across all QuantResearcher artifacts.
 
